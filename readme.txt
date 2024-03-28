@@ -1,0 +1,1 @@
+Login PHP vanilla, configurado para Apache en localhost/projects/loginphp
